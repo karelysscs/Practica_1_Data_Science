@@ -1,0 +1,5 @@
+# Salidas de ejecucion
+salida/
+__pycache__/
+*.pyc
+.venv/

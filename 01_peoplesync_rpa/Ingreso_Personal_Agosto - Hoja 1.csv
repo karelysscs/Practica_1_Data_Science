@@ -1,0 +1,51 @@
+apellidos_nombres,dni,fecha_nacimiento,genero,telefono,correo,area,puesto,contrato,sede,fecha_ingreso,modalidad
+"Chávez Castillo, Carlos",49364231,14/01/1998,Masculino,923756669,carlos.chavez@gruponova.com,Servicio al Cliente,Analista Sr.,Contrato a Plazo Fijo,Cusco,31/01/2025,Presencial
+"Rodríguez Núñez, Ricardo Julio",53343768,13/02/1997,Masculino,997226012,ricardo.rodriguez@gruponova.com,Servicio al Cliente,Jefe de Área,Contrato por Servicios,Piura,12/10/2025,Híbrido
+"Mamani Herrera, Fernando",50434052,29/08/1974,Masculino,955176955,fernando.mamani@gruponova.com,Finanzas y Contabilidad,Analista Sr.,Practicante Preprofesional,Lima - Miraflores,19/12/2025,Remoto
+"Ríos Carrasco, Luis",48376941,24/12/1981,No binario,920576383,luis.rios@gruponova.com,Servicio al Cliente,Especialista en Logística,Part-time,Trujillo,16/07/2025,Híbrido
+"Medina Sánchez, José",55622331,14/11/2003,Masculino,923556182,jose.medina@gruponova.com,Legal y Cumplimiento,Especialista en Marketing,Practicante Preprofesional,Trujillo,15/01/2026,Presencial
+"Herrera Martínez, Alejandro",51484920,17/12/1988,No binario,942857966,alejandro.herrera@gruponova.com,Tecnología e Innovación,Gerente de Área,Practicante Preprofesional,Arequipa,6/12/2026,Híbrido
+"López Castillo, Verónica",42154210,10/02/2001,Femenino,952339391,veronica.lopez@gruponova.com,Legal y Cumplimiento,Especialista en Marketing,Planilla Fija,Lima - Callao,19/11/2025,Híbrido
+"Ríos Torres, Milagros",57775807,07/04/1971,Femenino,943101783,milagros.rios@gruponova.com,Servicio al Cliente,Practicante Profesional,Practicante Profesional,Cusco,13/02/2026,Híbrido
+"Díaz Cabrera, Gustavo",73119287,29/01/1969,No binario,916323852,gustavo.diaz@gruponova.com,Finanzas y Contabilidad,Analista de RRHH,Part-time,Lima - La Molina,09/03/2026,Híbrido
+"Ríos Espinoza, Manuel",56872115,26/10/1989,Masculino,911540956,manuel.rios@gruponova.com,Finanzas y Contabilidad,Practicante Profesional,Practicante Profesional,Trujillo,28/10/2025,Presencial
+"Ríos García, Alberto",57675739,16/06/1987,Prefiero no indicar,933978249,alberto.rios@gruponova.com,Servicio al Cliente,Analista de Datos,Part-time,Arequipa,04/06/2026,Híbrido
+"Ramírez Carrasco, Patricia",75591432,10/01/1965,Femenino,990388981,patricia.ramirez@gruponova.com,Marketing,Sub Gerente,Planilla Fija,Lima - Miraflores,11/11/2025,Remoto
+"Sánchez Sánchez, Ana Teresa",72614267,09/08/2001,Femenino,919289546,ana.sanchez@gruponova.com,Servicio al Cliente,Analista de RRHH,Contrato por Servicios,Piura,19/06/2025,Híbrido
+"Reyes Delgado, Cecilia",54213536,11/03/1989,No binario,936998038,cecilia.reyes@gruponova.com,Comercial y Ventas,Coordinador de Proyectos,Part-time,Trujillo,14/06/2026,Remoto
+"Chávez Castillo, Andrés",44296705,02/03/1980,Prefiero no indicar,912823170,andres.chavez@gruponova.com,Gerencia General,Practicante Profesional,Contrato por Servicios,Lima - Callao,14/03/2025,Presencial
+"Mamani Martínez, Andrés José",74504433,05/09/1975,Masculino,947376585,andres.mamani@gruponova.com,Logística y Supply Chain,Especialista en TI,Contrato a Plazo Fijo,Lima - La Molina,08/08/2026,Híbrido
+"Bravo Cárdenas, Roberto",52778193,26/03/1969,Prefiero no indicar,923009833,roberto.bravo@gruponova.com,Legal y Cumplimiento,Coordinador Comercial,Practicante Preprofesional,Cusco,25/02/2025,Remoto
+"Mamani Pérez, José",56687044,06/08/1973,Masculino,935529407,jose.mamani@gruponova.com,Servicio al Cliente,Gerente de Área,Contrato por Servicios,Cusco,13/10/2025,Presencial
+"Martínez Vásquez, Roberto",76931706,24/05/1969,Prefiero no indicar,916789850,roberto.martinez@gruponova.com,Servicio al Cliente,Analista Jr.,Planilla Fija,Lima - Callao,21/02/2026,Presencial
+"Rojas Salazar, Verónica",43934955,21/05/1972,Prefiero no indicar,960864911,veronica.rojas@gruponova.com,Recursos Humanos,Coordinador de Proyectos,Practicante Profesional,Piura,10/03/2026,Remoto
+"Vargas Medina, Eduardo",54609659,17/08/1967,Prefiero no indicar,987736262,eduardo.vargas@gruponova.com,Servicio al Cliente,Analista,Part-time,Trujillo,21/02/2025,Presencial
+"Espinoza Ramírez, Elena",43817123,13/10/1987,Prefiero no indicar,920752378,elena.espinoza@gruponova.com,Tecnología e Innovación,Analista Sr.,Contrato a Plazo Fijo,Lima - Miraflores,29/08/2025,Híbrido
+"Ponce Chávez, Andrés",78850600,02/09/1991,Prefiero no indicar,915334035,andres.ponce@gruponova.com,Gerencia General,Analista Sr.,Practicante Preprofesional,Chiclayo,25/09/2025,Remoto
+"Díaz Aguilar, Verónica Elena",70683821,09/03/1979,Femenino,919736572,veronica.diaz@gruponova.com,Recursos Humanos,Gerente de Área,Contrato a Plazo Fijo,Lima - Miraflores,05/07/2026,Presencial
+"Martínez Chávez, Fiorella Sandra",64798543,14/10/1977,Femenino,931172421,fiorella.martinez@gruponova.com,Logística y Supply Chain,Practicante Profesional,Part-time,Arequipa,1/11/2026,Híbrido
+"Díaz Mendoza, Sergio Miguel",47746286,20/10/1969,Masculino,984252420,sergio.diaz@gruponova.com,Tecnología e Innovación,Especialista en Marketing,Practicante Profesional,Lima - Callao,18/12/2025,Híbrido
+"Mendoza López, Gabriela",46194045,15/06/1993,Femenino,966851377,gabriela.mendoza@gruponova.com,Comercial y Ventas,Analista,Planilla Fija,Trujillo,15/10/2026,Presencial
+"Vásquez Núñez, Alberto",68701583,28/02/1990,No binario,911297845,alberto.vasquez@gruponova.com,Finanzas y Contabilidad,Analista Sr.,Part-time,Lima - La Molina,06/02/2025,Híbrido
+"Núñez Torres, Pilar",68842498,20/09/1970,No binario,915614174,pilar.nunez@gruponova.com,Comercial y Ventas,Coordinador Comercial,Planilla Fija,Trujillo,30/11/2026,Presencial
+"Núñez Cárdenas, Rosa",50371898,15/08/1975,Femenino,931810617,rosa.nunez@gruponova.com,Tecnología e Innovación,Jefe de Área,Planilla Fija,Lima - La Molina,7/12/2025,Híbrido
+"Herrera Ramírez, Roberto",47254174,28/02/1982,Prefiero no indicar,915197528,roberto.herrera@gruponova.com,Logística y Supply Chain,Especialista Legal,Contrato por Servicios,Piura,9/11/2025,Remoto
+"Salazar Mamani, Silvia Karen",58696734,10/10/2003,Femenino,919317495,silvia.salazar@gruponova.com,Comercial y Ventas,Coordinador Comercial,Part-time,Chiclayo,27/11/2026,Remoto
+"Gómez Mendoza, José",51983483,17/01/1991,No binario,945630292,jose.gomez@gruponova.com,Recursos Humanos,Analista de Datos,Contrato a Plazo Fijo,Cusco,18/11/2025,Remoto
+"Cabrera Gómez, Teresa",65850027,12/11/1990,Prefiero no indicar,935511941,teresa.cabrera@gruponova.com,Comercial y Ventas,Analista,Part-time,Cusco,17/06/2026,Presencial
+"Mamani Palacios, Sandra",61066522,4/10/1994,Femenino,926726926,sandra.mamani@gruponova.com,Comercial y Ventas,Asistente Administrativo,Practicante Profesional,Cusco,17/02/2026,Remoto
+"Díaz Vargas, Milagros",68215675,30/10/1994,No binario,960888017,milagros.diaz@gruponova.com,Tecnología e Innovación,Practicante Preprofesional,Practicante Profesional,Cusco,01/01/2025,Híbrido
+"Rojas Delgado, Pablo",78922119,19/03/1992,No binario,997873101,pablo.rojas@gruponova.com,Marketing,Gerente de Área,Practicante Preprofesional,Piura,07/08/2025,Híbrido
+"Sánchez Medina, Alberto",74591398,12/10/1994,Prefiero no indicar,994951883,alberto.sanchez@gruponova.com,Gerencia General,Coordinador de Área,Planilla Fija,Lima - Callao,14/11/2025,Híbrido
+"Chávez Bravo, Karen Ana",44887419,06/06/1985,Femenino,965625330,karen.chavez@gruponova.com,Gerencia General,Especialista en TI,Part-time,Cusco,14/02/2026,Remoto
+"García Pérez, Patricia",68531078,26/10/1974,Femenino,933607110,patricia.garcia@gruponova.com,Servicio al Cliente,Gerente de Área,Planilla Fija,Chiclayo,05/05/2025,Presencial
+"Ríos Espinoza, Diego",77508841,17/09/1991,Prefiero no indicar,952587010,diego.rios@gruponova.com,Logística y Supply Chain,Asistente Administrativo,Practicante Preprofesional,Chiclayo,12/06/2025,Remoto
+"Mendoza Chávez, Gabriela",58610049,10/05/1999,Prefiero no indicar,979967676,gabriela.mendoza@gruponova.com,Logística y Supply Chain,Especialista Legal,Practicante Profesional,Piura,20/10/2025,Presencial
+"Carrasco Sánchez, Gabriela",49286126,8/10/1971,Femenino,941039390,gabriela.carrasco@gruponova.com,Legal y Cumplimiento,Analista de RRHH,Part-time,Lima - Callao,01/03/2026,Presencial
+"Carrasco Ríos, Ana",67902136,18/10/1967,Prefiero no indicar,937760841,ana.carrasco@gruponova.com,Legal y Cumplimiento,Coordinador de Proyectos,Contrato a Plazo Fijo,Lima - San Isidro (Sede Central),25/01/2026,Híbrido
+"Huamán Aguilar, Carlos",66171560,14/04/2003,Prefiero no indicar,966240084,carlos.huaman@gruponova.com,Servicio al Cliente,Practicante Profesional,Contrato a Plazo Fijo,Lima - Callao,13/08/2025,Remoto
+"Guerrero Rodríguez, Silvia",66095765,30/01/1980,No binario,999774697,silvia.guerrero@gruponova.com,Legal y Cumplimiento,Analista Financiero,Practicante Preprofesional,Lima - La Molina,01/07/2026,Híbrido
+"Rodríguez Sánchez, Manuel",68763716,02/02/1971,Masculino,971968116,manuel.rodriguez@gruponova.com,Tecnología e Innovación,Analista,Practicante Profesional,Cusco,05/08/2025,Remoto
+"Mamani Paredes, María",58673485,25/09/1998,Prefiero no indicar,966581473,maria.mamani@gruponova.com,Comercial y Ventas,Analista Sr.,Practicante Preprofesional,Lima - San Isidro (Sede Central),07/07/2026,Híbrido
+"Fernández Rodríguez, Raúl Luis",56594901,11/12/1973,Masculino,912735359,raul.fernandez@gruponova.com,Gerencia General,Analista de RRHH,Contrato por Servicios,Lima - La Molina,17/11/2026,Remoto
+"Ríos Mendoza, Pablo",64756136,12/07/1972,Masculino,991321540,pablo.rios@gruponova.com,Gerencia General,Analista de Datos,Contrato por Servicios,Arequipa,16/08/2026,Presencial

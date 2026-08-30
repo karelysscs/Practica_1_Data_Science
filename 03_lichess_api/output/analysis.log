@@ -1,0 +1,21 @@
+2026-08-30 09:21:37 INFO    ### Lichess - analisis de partidas - inicio ###
+2026-08-30 09:21:39 WARNING Sin LICHESS_TOKEN: se descargaran solo partidas publicas y con limites de trafico mas estrictos.
+2026-08-30 09:21:39 INFO    Descargando hasta 50 partidas de 'DrNykterstein' (intento 1/4)...
+2026-08-30 09:21:46 INFO    Recibidas 60 partidas.
+2026-08-30 09:21:46 INFO    DataFrame construido: 60 partidas x 15 columnas.
+2026-08-30 09:21:48 INFO    CSV escrito: C:\Users\karel\Documents\GitHub\Practica_1_Data_Science\03_lichess_api\output\partidas.csv (60 filas)
+2026-08-30 09:21:48 INFO    CSV escrito: C:\Users\karel\Documents\GitHub\Practica_1_Data_Science\03_lichess_api\output\estadisticas.csv (25 metricas)
+2026-08-30 09:21:48 INFO    CSV escrito: C:\Users\karel\Documents\GitHub\Practica_1_Data_Science\03_lichess_api\output\estadisticas_por_modo.csv (2 modos)
+2026-08-30 09:21:48 INFO    ============================================================
+2026-08-30 09:21:48 INFO    RESUMEN - Analisis de partidas de Lichess
+2026-08-30 09:21:48 INFO    ============================================================
+2026-08-30 09:21:48 INFO    Usuario                : DrNykterstein
+2026-08-30 09:21:48 INFO    Partidas analizadas    : 60
+2026-08-30 09:21:48 INFO    Rango de fechas        : 2025-05-24 19:57  ->  2026-04-08 19:39
+2026-08-30 09:21:48 INFO    Victorias/Tablas/Derrotas : 42 / 5 / 13
+2026-08-30 09:21:48 INFO    Win rate / Score       : 70.0% / 74.2%
+2026-08-30 09:21:48 INFO    Rating medio (min-max) : 3214.9  (3131 - 3289)
+2026-08-30 09:21:48 INFO    Performance neta rating: 86
+2026-08-30 09:21:48 INFO    Graficos generados     : grafico_resultados.png, grafico_rating.png, grafico_modos.png
+2026-08-30 09:21:48 INFO    ============================================================
+2026-08-30 09:21:48 INFO    ### Lichess - analisis de partidas - fin ###

@@ -1,0 +1,26 @@
+2026-08-30 09:31:41 INFO    ### Lichess - automatizacion de torneos - inicio ###
+2026-08-30 09:31:41 INFO    Modo: REAL (se crearan torneos)
+2026-08-30 09:31:41 INFO    Token detectado (lip_...).
+2026-08-30 09:31:41 INFO    Fecha/hora local de referencia: 2026-08-30 09:31 (Sunday)
+2026-08-30 09:31:41 INFO    ------------------------------------------------------------
+2026-08-30 09:31:41 INFO    [1/3] Blitz de los Lunes  (lunes 20:00, blitz, 60 min)
+2026-08-30 09:31:41 INFO       inicio programado: 2026-08-31 20:00 (Monday)
+2026-08-30 09:31:43 ERROR      ERROR: HTTP 400: parametros rechazados -> {"rated":["error.boolean"],"error":{"rated":["error.boolean"]}}
+2026-08-30 09:31:44 INFO    ------------------------------------------------------------
+2026-08-30 09:31:44 INFO    [2/3] Bullet Miercoles  (miercoles 21:00, bullet, 45 min)
+2026-08-30 09:31:44 INFO       inicio programado: 2026-09-02 21:00 (Wednesday)
+2026-08-30 09:31:44 ERROR      ERROR: HTTP 400: parametros rechazados -> {"rated":["error.boolean"],"error":{"rated":["error.boolean"]}}
+2026-08-30 09:31:46 INFO    ------------------------------------------------------------
+2026-08-30 09:31:46 INFO    [3/3] Rapid del Sabado  (sabado 11:00, rapid, 90 min)
+2026-08-30 09:31:46 INFO       inicio programado: 2026-09-05 11:00 (Saturday)
+2026-08-30 09:31:46 ERROR      ERROR: HTTP 400: parametros rechazados -> {"rated":["error.boolean"],"error":{"rated":["error.boolean"]}}
+2026-08-30 09:31:48 INFO    ============================================================
+2026-08-30 09:31:48 INFO    RESUMEN - Automatizacion de torneos
+2026-08-30 09:31:48 INFO    ============================================================
+2026-08-30 09:31:48 INFO    Torneos en el calendario : 3
+2026-08-30 09:31:48 INFO    Creados (API real)       : 0
+2026-08-30 09:31:48 INFO    Simulados (DRY-RUN)      : 0
+2026-08-30 09:31:48 INFO    Saltados (ya pasaron)    : 0
+2026-08-30 09:31:48 INFO    Con error                : 3
+2026-08-30 09:31:48 INFO    ============================================================
+2026-08-30 09:31:48 INFO    ### Lichess - automatizacion de torneos - fin ###

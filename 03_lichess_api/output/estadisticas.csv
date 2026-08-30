@@ -1,0 +1,26 @@
+﻿categoria,metrica,valor
+general,usuario,DrNykterstein
+general,partidas_analizadas,60
+general,rango_fechas,2025-05-24 19:57  ->  2026-04-08 19:39
+resultado,victorias,42
+resultado,derrotas,13
+resultado,tablas,5
+resultado,win_rate_pct,70.0
+resultado,score_pct,74.2
+resultado,performance_neta_rating,86
+rating,media,3214.9
+rating,mediana,3211.0
+rating,minimo,3131
+rating,maximo,3289
+rating,desviacion_std,36.1
+rating,rating_medio_rival,3067.3
+color,partidas_blancas,30
+color,win_rate_blancas_pct,63.3
+color,partidas_negras,30
+color,win_rate_negras_pct,76.7
+modo,bullet_partidas,58
+modo,bullet_win_rate_pct,69.0
+modo,bullet_rating_medio,3217.5
+modo,blitz_partidas,2
+modo,blitz_win_rate_pct,100.0
+modo,blitz_rating_medio,3138.0

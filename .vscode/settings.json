@@ -1,0 +1,6 @@
+{
+  // Usa el entorno virtual del proyecto como interprete por defecto.
+  // Si aun no lo creaste:  python -m venv 01_peoplesync_rpa\.venv
+  "python.defaultInterpreterPath": "${workspaceFolder}/01_peoplesync_rpa/.venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true
+}
