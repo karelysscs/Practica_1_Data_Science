@@ -1,0 +1,61 @@
+﻿id,fecha,rated,modo,variante,color,resultado,rating,rating_rival,rating_diff,estado_final,num_jugadas,apertura,eco
+ony4vIqh,2025-05-24 19:57,True,bullet,standard,negras,victoria,3179,3059,8,resign,40,Alekhine Defense: Brooklyn Variation,B02
+GILE0fmS,2025-05-24 19:59,True,bullet,standard,blancas,derrota,3187,3242,-10,outoftime,63,"Italian Game: Giuoco Pianissimo, Normal",C50
+P8sDo8tc,2025-05-24 20:01,True,bullet,standard,negras,victoria,3177,2973,6,resign,44,Modern Defense,B06
+O79p4glP,2025-05-24 20:03,True,bullet,standard,blancas,victoria,3183,3129,9,resign,39,"English Opening: King's English Variation, Four Knights Variation, Flexible Line",A28
+OwBe22yo,2025-05-24 20:05,True,bullet,standard,negras,tablas,3192,3108,-3,draw,57,Modern Defense: Pseudo-Austrian Attack,B06
+bDRN4aOQ,2025-05-24 20:07,True,bullet,standard,blancas,victoria,3189,3069,7,outoftime,42,Zukertort Opening,A05
+oPmPGF8X,2025-05-24 20:09,True,bullet,standard,negras,derrota,3196,2998,-15,resign,19,King's Indian Attack: Symmetrical Defense,A05
+KyVLw4xS,2025-05-24 20:10,True,bullet,standard,blancas,tablas,3181,3145,-1,draw,58,Zukertort Opening: Kingside Fianchetto,A04
+ovXf5I0A,2025-05-24 20:12,True,bullet,standard,negras,victoria,3180,3159,9,outoftime,64,Rapport-Jobava System,D01
+lUP0KiqC,2025-05-24 20:14,True,bullet,standard,blancas,derrota,3189,3222,-8,resign,44,"Italian Game: Two Knights Defense, Modern Bishop's Opening",C55
+OJozkZH3,2025-05-24 20:16,True,bullet,standard,negras,victoria,3181,3064,6,outoftime,64,Sicilian Defense: Alapin Variation,B22
+5oquNjYQ,2025-05-24 20:19,True,bullet,standard,blancas,derrota,3187,3243,-7,outoftime,74,Grünfeld Defense,D80
+nvybf9EQ,2025-05-24 20:21,True,bullet,standard,negras,derrota,3180,3103,-10,resign,55,Four Knights Game: Naroditsky Variation,C47
+WPYzAi4Z,2025-05-24 20:23,True,bullet,standard,blancas,victoria,3170,3090,6,resign,38,King's Indian Defense: Normal Variation,E70
+pHGFe1lT,2025-05-24 20:25,True,bullet,standard,negras,victoria,3176,3151,8,outoftime,63,Rapport-Jobava System,D01
+9vzrfIrv,2025-05-24 20:27,True,bullet,standard,negras,derrota,3184,3213,-8,resign,52,Pseudo Queen's Indian Defense,A47
+knxDYq5W,2025-05-24 20:29,True,bullet,standard,blancas,victoria,3176,3019,5,resign,28,Hungarian Opening: Slav Formation,A00
+fcmhc2GV,2025-05-24 20:31,True,bullet,standard,negras,victoria,3181,3118,6,resign,36,"Sicilian Defense: Modern Variations, Main Line",B54
+3YrxyLMY,2025-05-24 20:33,True,bullet,standard,blancas,victoria,3187,3110,6,resign,47,Zukertort Opening,A05
+ZjbAs7ai,2025-05-24 20:35,True,bullet,standard,negras,victoria,3193,2857,2,mate,51,"Pterodactyl Defense: Western, Rhamphorhynchus",B27
+MSkP4tKc,2025-05-24 20:37,True,bullet,standard,blancas,victoria,3195,3064,5,resign,21,King's Indian Attack,A05
+fNUpn0oK,2025-05-24 20:37,True,bullet,standard,blancas,victoria,3200,2964,3,resign,59,"King's Indian Attack, with Bf5",A07
+uZ8Ugjbm,2025-05-24 20:39,True,bullet,standard,negras,derrota,3203,3266,-6,resign,24,"Queen's Gambit Accepted: Normal Variation, Traditional System",D26
+ZZImaDvj,2025-05-24 20:41,True,bullet,standard,negras,victoria,3197,3004,4,mate,73,Queen's Pawn Game: Modern Defense,A40
+jsnf9Tyl,2025-05-24 20:44,True,bullet,standard,blancas,tablas,3201,3224,0,outoftime,82,King's Indian Attack,A07
+iYUxzt1g,2025-05-24 20:46,True,bullet,standard,blancas,victoria,3201,3080,4,resign,48,Zukertort Opening: Kingside Fianchetto,A04
+X2ooxxhO,2025-05-24 20:48,True,bullet,standard,negras,victoria,3205,3084,5,resign,39,King's Indian Attack: Symmetrical Defense,A05
+BdIlhVem,2025-05-24 20:50,True,bullet,standard,blancas,victoria,3210,3235,7,resign,13,Sicilian Defense,B27
+2WzTqTeg,2025-05-24 20:51,True,bullet,standard,blancas,victoria,3217,3020,3,resign,34,Sicilian Defense: Closed,B23
+jdsZdqm4,2025-05-24 20:52,True,bullet,standard,negras,victoria,3220,2998,3,resign,36,Rapport-Jobava System,D01
+MoasISt2,2025-05-24 20:54,True,bullet,standard,blancas,victoria,3223,3283,7,resign,42,Grünfeld Defense: Exchange Variation,D85
+ai4mXm5Q,2025-05-24 20:56,True,bullet,standard,negras,victoria,3230,3108,4,resign,43,English Opening: Great Snake Variation,A10
+oPMO817E,2025-05-24 20:58,True,bullet,standard,blancas,derrota,3234,3072,-8,resign,35,Hungarian Opening: Reversed Alekhine,A00
+U7vJv1HU,2025-05-24 20:59,True,bullet,standard,negras,derrota,3226,3109,-8,resign,37,"King's Indian Attack, with e6",A07
+T0hqqeXL,2025-11-25 14:41,True,bullet,standard,blancas,victoria,3218,3018,7,resign,13,English Defense,A40
+EOwvdMyl,2025-11-25 14:41,True,bullet,standard,negras,victoria,3225,3015,8,mate,28,Bird Opening,A02
+OK63uLhA,2026-01-19 10:15,True,bullet,standard,negras,victoria,3233,3111,13,mate,38,Zukertort Opening: Kingside Fianchetto,A04
+qqcAlGZe,2026-01-19 10:16,True,bullet,standard,blancas,victoria,3246,3107,10,resign,51,Hungarian Opening,A00
+fMIf8O0H,2026-01-19 10:19,True,bullet,standard,negras,victoria,3256,3103,10,resign,15,Zukertort Opening: Kingside Fianchetto,A04
+JrfNbeoz,2026-01-19 10:19,True,bullet,standard,blancas,victoria,3266,3100,9,resign,24,Nimzowitsch Defense,B00
+UEHX6oFD,2026-01-19 10:20,True,bullet,standard,negras,tablas,3275,3097,-7,draw,53,King's Indian Attack: Symmetrical Defense,A05
+zUxV8GLr,2026-01-19 10:22,True,bullet,standard,blancas,victoria,3268,3099,8,resign,34,King's Indian Defense: Normal Variation,E70
+zO5ZaqI6,2026-03-17 23:00,True,bullet,standard,blancas,victoria,3276,3016,6,resign,42,Four Knights Game: Scotch Variation Accepted,C47
+K30CV7h1,2026-03-17 23:02,True,bullet,standard,negras,victoria,3282,3014,7,resign,22,"Sicilian Defense: Modern Variations, Main Line",B54
+1fLwz7QO,2026-03-17 23:03,True,bullet,standard,blancas,tablas,3289,3012,-12,draw,68,Italian Game: Paris Defense,C50
+G3tGP3Qv,2026-03-17 23:05,True,bullet,standard,negras,victoria,3277,3015,7,mate,37,Sicilian Defense: Hyperaccelerated Dragon,B27
+Bz3c7N7D,2026-03-17 23:06,True,bullet,standard,blancas,derrota,3284,3013,-27,resign,50,Rapport-Jobava System,D01
+hQh8KffH,2026-03-17 23:08,True,bullet,standard,negras,victoria,3257,3023,7,resign,27,Modern Defense: Standard Defense,B06
+Jhes4kvM,2026-03-17 23:09,True,bullet,standard,blancas,derrota,3264,3020,-24,resign,44,Scandinavian Defense: Modern Variation,B01
+QvJtZdDG,2026-03-17 23:11,True,bullet,standard,negras,victoria,3240,3029,7,resign,36,Four Knights Game: Gunsberg Variation,C47
+8vvzLvgP,2026-03-17 23:13,True,bullet,standard,blancas,derrota,3247,3026,-22,resign,31,Rapport-Jobava System,D01
+uG80HxaK,2026-03-17 23:14,True,bullet,standard,negras,victoria,3225,3035,7,resign,49,"French Defense: Rubinstein Variation, Blackburne Defense",C10
+ItgC9JQz,2026-03-17 23:16,True,bullet,standard,blancas,derrota,3232,3032,-20,outoftime,64,Queen's Indian Accelerated,A50
+SNG5EiHV,2026-03-17 23:18,True,bullet,standard,negras,victoria,3212,3041,7,mate,27,Three Knights Opening: Steinitz Defense,C46
+haRbNEM1,2026-03-17 23:19,True,bullet,standard,blancas,victoria,3219,3038,7,resign,27,"English Opening: Anglo-Indian Defense, Queen's Knight Variation",A16
+VOqkxbKK,2026-03-17 23:20,True,bullet,standard,negras,victoria,3226,3035,6,mate,28,"French Defense: Winawer Variation, Alekhine-Maróczy Gambit",C15
+nrmBGiQF,2026-03-17 23:21,True,bullet,standard,blancas,victoria,3232,3032,6,mate,25,English Opening: Neo-Catalan Declined,A13
+SnXhGC57,2026-03-17 23:23,True,bullet,standard,negras,victoria,3238,3029,5,mate,57,Caro-Kann Defense: Exchange Variation,B13
+xKWdG1d1,2026-04-08 19:36,True,blitz,standard,blancas,victoria,3131,2752,14,resign,45,King's Indian Defense,E61
+kAdOQKeh,2026-04-08 19:39,True,blitz,standard,negras,victoria,3145,2644,8,resign,68,Alekhine Defense: Sämisch Attack,B02

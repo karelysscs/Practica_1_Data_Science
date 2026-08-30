@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+
+# La carpeta output/ SI se versiona: la consigna pide subir los archivos de
+# salida y los logs como evidencia de funcionamiento.

@@ -1,0 +1,51 @@
+﻿fila,dni,nombre,genero,area,fecha_ingreso,estado,motivo
+1,49364231,"Chávez Castillo, Carlos",Masculino,Servicio al Cliente,31/01/2025,OK,
+2,53343768,"Rodríguez Núñez, Ricardo Julio",Masculino,Servicio al Cliente,12/10/2025,OK,
+3,50434052,"Mamani Herrera, Fernando",Masculino,Finanzas y Contabilidad,19/12/2025,OK,
+4,48376941,"Ríos Carrasco, Luis",No binario,Servicio al Cliente,16/07/2025,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+5,55622331,"Medina Sánchez, José",Masculino,Legal y Cumplimiento,15/01/2026,OK,
+6,51484920,"Herrera Martínez, Alejandro",No binario,Tecnología e Innovación,6/12/2026,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+7,42154210,"López Castillo, Verónica",Femenino,Legal y Cumplimiento,19/11/2025,OK,
+8,57775807,"Ríos Torres, Milagros",Femenino,Servicio al Cliente,13/02/2026,OK,
+9,73119287,"Díaz Cabrera, Gustavo",No binario,Finanzas y Contabilidad,09/03/2026,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+10,56872115,"Ríos Espinoza, Manuel",Masculino,Finanzas y Contabilidad,28/10/2025,OK,
+11,57675739,"Ríos García, Alberto",Prefiero no indicar,Servicio al Cliente,04/06/2026,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+12,75591432,"Ramírez Carrasco, Patricia",Femenino,Marketing,11/11/2025,OK,
+13,72614267,"Sánchez Sánchez, Ana Teresa",Femenino,Servicio al Cliente,19/06/2025,OK,
+14,54213536,"Reyes Delgado, Cecilia",No binario,Comercial y Ventas,14/06/2026,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+15,44296705,"Chávez Castillo, Andrés",Prefiero no indicar,Gerencia General,14/03/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+16,74504433,"Mamani Martínez, Andrés José",Masculino,Logística y Supply Chain,08/08/2026,OK,
+17,52778193,"Bravo Cárdenas, Roberto",Prefiero no indicar,Legal y Cumplimiento,25/02/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+18,56687044,"Mamani Pérez, José",Masculino,Servicio al Cliente,13/10/2025,OK,
+19,76931706,"Martínez Vásquez, Roberto",Prefiero no indicar,Servicio al Cliente,21/02/2026,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+20,43934955,"Rojas Salazar, Verónica",Prefiero no indicar,Recursos Humanos,10/03/2026,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+21,54609659,"Vargas Medina, Eduardo",Prefiero no indicar,Servicio al Cliente,21/02/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+22,43817123,"Espinoza Ramírez, Elena",Prefiero no indicar,Tecnología e Innovación,29/08/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+23,78850600,"Ponce Chávez, Andrés",Prefiero no indicar,Gerencia General,25/09/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+24,70683821,"Díaz Aguilar, Verónica Elena",Femenino,Recursos Humanos,05/07/2026,OK,
+25,64798543,"Martínez Chávez, Fiorella Sandra",Femenino,Logística y Supply Chain,1/11/2026,OK,
+26,47746286,"Díaz Mendoza, Sergio Miguel",Masculino,Tecnología e Innovación,18/12/2025,OK,
+27,46194045,"Mendoza López, Gabriela",Femenino,Comercial y Ventas,15/10/2026,OK,
+28,68701583,"Vásquez Núñez, Alberto",No binario,Finanzas y Contabilidad,06/02/2025,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+29,68842498,"Núñez Torres, Pilar",No binario,Comercial y Ventas,30/11/2026,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+30,50371898,"Núñez Cárdenas, Rosa",Femenino,Tecnología e Innovación,7/12/2025,OK,
+31,47254174,"Herrera Ramírez, Roberto",Prefiero no indicar,Logística y Supply Chain,9/11/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+32,58696734,"Salazar Mamani, Silvia Karen",Femenino,Comercial y Ventas,27/11/2026,OK,
+33,51983483,"Gómez Mendoza, José",No binario,Recursos Humanos,18/11/2025,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+34,65850027,"Cabrera Gómez, Teresa",Prefiero no indicar,Comercial y Ventas,17/06/2026,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+35,61066522,"Mamani Palacios, Sandra",Femenino,Comercial y Ventas,17/02/2026,OK,
+36,68215675,"Díaz Vargas, Milagros",No binario,Tecnología e Innovación,01/01/2025,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+37,78922119,"Rojas Delgado, Pablo",No binario,Marketing,07/08/2025,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+38,74591398,"Sánchez Medina, Alberto",Prefiero no indicar,Gerencia General,14/11/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+39,44887419,"Chávez Bravo, Karen Ana",Femenino,Gerencia General,14/02/2026,OK,
+40,68531078,"García Pérez, Patricia",Femenino,Servicio al Cliente,05/05/2025,OK,
+41,77508841,"Ríos Espinoza, Diego",Prefiero no indicar,Logística y Supply Chain,12/06/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+42,58610049,"Mendoza Chávez, Gabriela",Prefiero no indicar,Logística y Supply Chain,20/10/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+43,49286126,"Carrasco Sánchez, Gabriela",Femenino,Legal y Cumplimiento,01/03/2026,OK,
+44,67902136,"Carrasco Ríos, Ana",Prefiero no indicar,Legal y Cumplimiento,25/01/2026,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+45,66171560,"Huamán Aguilar, Carlos",Prefiero no indicar,Servicio al Cliente,13/08/2025,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+46,66095765,"Guerrero Rodríguez, Silvia",No binario,Legal y Cumplimiento,01/07/2026,FALLIDO,género 'No binario' no está en el formulario (Masculino/Femenino)
+47,68763716,"Rodríguez Sánchez, Manuel",Masculino,Tecnología e Innovación,05/08/2025,OK,
+48,58673485,"Mamani Paredes, María",Prefiero no indicar,Comercial y Ventas,07/07/2026,FALLIDO,género 'Prefiero no indicar' no está en el formulario (Masculino/Femenino)
+49,56594901,"Fernández Rodríguez, Raúl Luis",Masculino,Gerencia General,17/11/2026,OK,
+50,64756136,"Ríos Mendoza, Pablo",Masculino,Gerencia General,16/08/2026,OK,

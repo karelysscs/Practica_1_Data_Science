@@ -1,0 +1,46 @@
+{
+  // Configuraciones para ejecutar/depurar el RPA PeopleSync desde VS Code (tecla F5).
+  // Elige la configuracion en el panel "Ejecutar y depurar" (Ctrl+Shift+D).
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "PeopleSync - normal (Google Sheets, con ventana)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.main",
+      "cwd": "${workspaceFolder}/01_peoplesync_rpa",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "PeopleSync - dry-run (solo valida, sin navegador)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.main",
+      "args": ["--dry-run", "--source", "csv"],
+      "cwd": "${workspaceFolder}/01_peoplesync_rpa",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "PeopleSync - headless (como Task Scheduler)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.main",
+      "args": ["--headless", "--source", "google_sheets"],
+      "cwd": "${workspaceFolder}/01_peoplesync_rpa",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "PeopleSync - prueba 3 registros (CSV local)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.main",
+      "args": ["--source", "csv", "--limit", "3"],
+      "cwd": "${workspaceFolder}/01_peoplesync_rpa",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
